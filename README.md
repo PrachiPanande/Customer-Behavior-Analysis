@@ -107,7 +107,14 @@ File: `Customer behavior.sql`
 - ~73% customers are non-subscribers  
 - Discounts influence purchasing behavior  
 - Subscribers show higher engagement  
-- Revenue is concentrated in top categories  
+- Revenue is concentrated in top categories
+
+
+
+<img width="1189" height="646" alt="Screenshot 2026-04-13 210204" src="https://github.com/user-attachments/assets/93e4f450-9d14-403f-83b1-e18a7789fcd0" />
+
+
+
 
 ---
 
